@@ -17,9 +17,9 @@
   <img align="center" alt="icons" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="icons" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg">
   <img align="center" alt="icons" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  _
 </div>
   
+  <br>
  
 <div>
   <a href = "mailto:willian.samer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
